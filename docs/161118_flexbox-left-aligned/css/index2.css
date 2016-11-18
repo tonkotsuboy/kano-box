@@ -27,20 +27,20 @@
   width: 30%;
 }
 .container.column3 .box {
-  width: 30%;
+  width: 32%;
 }
 
 /* 4カラム */
 .container.column4::after, .container.column4::before {
   content: "";
   display: block;
-  width: 28%;
+  width: 24%;
 }
 .container.column4::before {
   order: 1;
 }
 .container.column4 .box {
-  width: 28%;
+  width: 24%;
 }
 
 /* 5カラム
