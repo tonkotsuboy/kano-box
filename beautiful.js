@@ -1,0 +1,1 @@
+console.log("非の打ち所がないJavaScriptコード");
